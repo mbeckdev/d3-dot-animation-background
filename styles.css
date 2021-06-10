@@ -1,9 +1,58 @@
 :root {
   /* --main-color: #000000; */
+  /* --dot-color-1: #5995DA;
+  --dot-color-2: #123456;
+  --dot-color-3: #5995DA; */
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+#circle-art {
+  /*background-color: #123456;*/
+  height: 120px;
+  width: 425px;
+  /* border: 1px solid red; */
+}
+
+body {
+  background-color: #5995da;
+  font-family: Helvetica, monospace;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.theTitle {
+  background-color: #123456;
+  color: #fff;
+}
+.page {
+  //background-color: #599500; /* for debugging */
+}
+/* #circle-art { */
+/*background-color: #123456;*/
+/* height: 120px; */
+/* width: 425px; */
+/* } */
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 10px;
+}
+p {
+  margin: 5px auto;
 }
