@@ -15,8 +15,15 @@
   /*background-color: #123456;*/
   height: 120px;
   width: 425px;
+  background-color: black;
   /* border: 1px solid red; */
 }
+
+/* #moving-background { */
+/* height: 120px;
+  width: 425px; */
+/* border: 1px solid orange; */
+/* } */
 
 body {
   background-color: #5995da;
@@ -33,7 +40,7 @@ h1 {
   color: #fff;
 }
 .page {
-  //background-color: #599500; /* for debugging */
+  /*background-color: #599500;*/ /* for debugging */
 }
 /* #circle-art { */
 /*background-color: #123456;*/
