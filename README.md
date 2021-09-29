@@ -2,6 +2,8 @@
 
 An animated background using D3
 
+[Try it here!](https://mbeckdev.github.io/d3-dot-animation-background/)
+
 ## Directions
 
 - reload the page to see new art made from D3 dots!
